@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "6b62d60f-49f2-43fa-8fba-3c185637ef8a",
+            "Value": {
+                "id": "7c8a9546-3585-4849-a3b1-f2e3559cc2c0",
+                "resourcePath": "sprites\\spr_health_pu\\spr_health_pu.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6dcea619-b536-48f8-886e-3b8a5036dec6",
             "Value": {
                 "id": "5244b810-4447-489f-b6eb-f666216f7701",
