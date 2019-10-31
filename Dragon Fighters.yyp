@@ -135,14 +135,6 @@
             }
         },
         {
-            "Key": "ae00e851-3662-49f1-8809-76f2b29b8a8e",
-            "Value": {
-                "id": "ec0d81c2-4bdd-4d2e-b0a8-11dbc63e229d",
-                "resourcePath": "sprites\\spr_tombstone_background\\spr_tombstone_background.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "ae4671f2-2d6c-4c95-adb1-054edefad0b4",
             "Value": {
                 "id": "2536230c-3413-4b95-9aad-cb5dda683c79",
