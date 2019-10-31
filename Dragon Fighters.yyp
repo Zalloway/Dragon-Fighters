@@ -138,7 +138,7 @@
             "Key": "ae00e851-3662-49f1-8809-76f2b29b8a8e",
             "Value": {
                 "id": "ec0d81c2-4bdd-4d2e-b0a8-11dbc63e229d",
-                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourcePath": "sprites\\spr_tombstone_background\\spr_tombstone_background.yy",
                 "resourceType": "GMSprite"
             }
         },
