@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "2da1b773-0b70-4aa0-8343-32b3698f7fe7",
+            "Value": {
+                "id": "c69f6690-d0d0-4be5-8482-26c7efa95dde",
+                "resourcePath": "objects\\obj_batman_standing\\obj_batman_standing.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3bbba307-51ca-45a6-882a-228a1379f906",
             "Value": {
                 "id": "c3982125-d4c7-4fd5-a574-da477e530b5b",
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "a8839b32-3ea7-41a2-89d7-95a2f41f1f81",
+            "Value": {
+                "id": "738fc1cd-437f-4b43-89ba-f89b4ef66b33",
+                "resourcePath": "objects\\obj_floor\\obj_floor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "f452f3c3-f7d6-4f81-b96d-91541cd84ab8",
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "bad28cd5-99e0-4ed8-8691-b71a062e8c59",
+            "Value": {
+                "id": "2713ee30-3dee-4b97-ab55-1efab98e3fcf",
+                "resourcePath": "objects\\obj_gravity_Controller\\obj_gravity_Controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c1d43514-5539-4139-be6c-bbd1f5e1b6c9",
             "Value": {
                 "id": "312b67de-3436-4b14-805c-b7bab97d8658",
@@ -204,6 +228,22 @@
                 "id": "ad8b7c5c-2118-4be3-aefb-ab12969196d1",
                 "resourcePath": "views\\d1a60cf3-913d-4f8c-b3de-1706bf68734e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dce0a550-dcfc-4be1-90ed-29d8172a7885",
+            "Value": {
+                "id": "443e4f1d-01e7-432c-af11-b9299149c6cf",
+                "resourcePath": "objects\\obj_batman_running\\obj_batman_running.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "deead446-91f7-459f-ab39-ccd9ab212d47",
+            "Value": {
+                "id": "dfecc51a-76e8-412c-a918-2990845ad046",
+                "resourcePath": "objects\\obj_Turn\\obj_Turn.yy",
+                "resourceType": "GMObject"
             }
         },
         {
