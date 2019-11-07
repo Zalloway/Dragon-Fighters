@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "4c7de6e4-7c12-47f5-aa5f-4ecebe22e04c",
+            "Value": {
+                "id": "7e342322-c5b9-4067-af67-a4c81038eb8f",
+                "resourcePath": "sprites\\spr_flash_throwing\\spr_flash_throwing.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4e267717-51a5-41a6-b231-c5ae24029826",
             "Value": {
                 "id": "fa3d5da9-f795-43b4-9feb-a1cbedbde611",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "720fab08-5771-4b49-9ab7-78bf5367ff9c",
+            "Value": {
+                "id": "fe187e86-f37d-4053-9758-f3f6d9053d6d",
+                "resourcePath": "objects\\obj_lightning\\obj_lightning.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "735d1d23-5ff8-4eb6-83ad-ad53f472b60c",
             "Value": {
                 "id": "40f82af5-29f4-4418-a9a5-c87ebd44a2fd",
@@ -159,6 +175,14 @@
             }
         },
         {
+            "Key": "82f1eac3-94f1-48d0-9e35-222aa0ae8f9d",
+            "Value": {
+                "id": "58670093-a4af-4773-9c25-7a5ce3807b9c",
+                "resourcePath": "sprites\\spr_lightning_bolt\\spr_lightning_bolt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "830f3bea-2590-4752-ab53-54a1dd769f3a",
             "Value": {
                 "id": "637cad2e-9847-4754-bb4c-2be5b9bcace5",
@@ -172,6 +196,14 @@
                 "id": "c5b9ccd2-e30f-4802-845e-c7828ee86ff2",
                 "resourcePath": "views\\a6638d94-6de2-465e-8de2-fda1fb574373.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a8278a40-8b3f-4d3b-be39-dbb66fbfe369",
+            "Value": {
+                "id": "af6218b4-dcb2-41f6-bd6f-2c6d164475bc",
+                "resourcePath": "objects\\obj_batarang\\obj_batarang.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -284,6 +316,14 @@
                 "id": "83bc6f3c-c662-4991-b75c-9b8ab779d986",
                 "resourcePath": "views\\e3bf6d56-f74b-4b5e-8ad9-52e6f827bd82.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e6664896-3e21-4f9f-9c5d-8f93af402dba",
+            "Value": {
+                "id": "6190fcb6-8c82-400e-8d00-23cb4917f325",
+                "resourcePath": "sprites\\spr_batarang\\spr_batarang.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

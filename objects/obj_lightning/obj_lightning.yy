@@ -1,28 +1,18 @@
 {
-    "id": "316df758-3824-41b0-9210-7e9d379b3089",
+    "id": "720fab08-5771-4b49-9ab7-78bf5367ff9c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_flash_shooting",
+    "name": "obj_lightning",
     "eventList": [
         {
-            "id": "2e0fb18e-40bf-44ec-bb6c-cf431febf431",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "316df758-3824-41b0-9210-7e9d379b3089"
-        },
-        {
-            "id": "04d4ef94-0e12-4b57-a9bd-cb7a8b72fb1c",
+            "id": "b721452b-3234-41cd-9001-e4edd735b969",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "316df758-3824-41b0-9210-7e9d379b3089"
+            "m_owner": "720fab08-5771-4b49-9ab7-78bf5367ff9c"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "82f1eac3-94f1-48d0-9e35-222aa0ae8f9d",
     "visible": true
 }
