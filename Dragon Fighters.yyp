@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "0ad7f928-0ee8-4f14-a80d-d38f816f7342",
-            "Value": {
-                "id": "cccfd554-29ed-4126-921f-2467ba4e36a7",
-                "resourcePath": "sprites\\spr_batman_shooting\\spr_batman_shooting.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0d203805-ca58-4f84-ac46-73142c302940",
             "Value": {
                 "id": "bc8738f4-75d9-4693-a89d-06ab0009c694",
@@ -300,6 +292,14 @@
                 "id": "31d27c0c-a4e9-4132-a015-0b7a19dbadab",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fb23b99e-0950-4343-87a5-6e3f6101239e",
+            "Value": {
+                "id": "e2bb2066-6dfe-4705-8fab-2e45b4c9294a",
+                "resourcePath": "sprites\\spr_batman_shooting\\spr_batman_shooting.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
