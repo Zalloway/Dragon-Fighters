@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "316df758-3824-41b0-9210-7e9d379b3089",
+            "Value": {
+                "id": "2bdf12d9-c775-4cab-ab7f-3b31df84e945",
+                "resourcePath": "objects\\obj_flash_shooting\\obj_flash_shooting.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3bbba307-51ca-45a6-882a-228a1379f906",
             "Value": {
                 "id": "c3982125-d4c7-4fd5-a574-da477e530b5b",
@@ -106,7 +114,7 @@
             "Key": "59ae7c0e-9ef2-4bed-b356-d18b2316acee",
             "Value": {
                 "id": "04354e56-ed9f-44bd-9b22-6ec2578dcea6",
-                "resourcePath": "objects\\obj_flash\\obj_flash.yy",
+                "resourcePath": "objects\\obj_flash_standing\\obj_flash_standing.yy",
                 "resourceType": "GMObject"
             }
         },
