@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0bd64723-d357-4899-9516-598b636d0c83",
+            "Value": {
+                "id": "2e435535-62f3-447e-bc62-44c4146eb784",
+                "resourcePath": "sprites\\sprite6\\sprite6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d203805-ca58-4f84-ac46-73142c302940",
             "Value": {
                 "id": "bc8738f4-75d9-4693-a89d-06ab0009c694",
@@ -66,7 +74,7 @@
             "Key": "2da1b773-0b70-4aa0-8343-32b3698f7fe7",
             "Value": {
                 "id": "c69f6690-d0d0-4be5-8482-26c7efa95dde",
-                "resourcePath": "objects\\obj_batman_standing\\obj_batman_standing.yy",
+                "resourcePath": "objects\\obj_batman\\obj_batman.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -92,6 +100,14 @@
                 "id": "fa3d5da9-f795-43b4-9feb-a1cbedbde611",
                 "resourcePath": "views\\4e267717-51a5-41a6-b231-c5ae24029826.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "52581a4b-4f66-4607-a703-d74aa84b0ee7",
+            "Value": {
+                "id": "d9ecc2f2-ca59-4b86-ac1a-f4c48dad901e",
+                "resourcePath": "scripts\\scr_exhex_to_number\\scr_exhex_to_number.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -231,6 +247,14 @@
             }
         },
         {
+            "Key": "c701a31f-40d0-4892-a565-06781b21469e",
+            "Value": {
+                "id": "224c373d-8624-4943-9fa5-629b7614e72d",
+                "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c9afb8f4-3b23-40e8-bdcd-eb3f3e02ad5a",
             "Value": {
                 "id": "b5372468-6e44-4f17-a735-c54b5b20323f",
@@ -282,8 +306,16 @@
             "Key": "ebdb1c6a-e3d9-4326-960e-a16b80e8ae01",
             "Value": {
                 "id": "2f8f6d06-fc4a-4e72-9f2f-9c6d4252653d",
-                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourcePath": "sprites\\spr_floor\\spr_floor.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ecd466b1-9708-4ee0-8290-feacaa604610",
+            "Value": {
+                "id": "a9c1964b-bacf-488d-b65a-5de6c6d7e5b3",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -304,7 +336,7 @@
         }
     ],
     "script_order": [
-        
+        "52581a4b-4f66-4607-a703-d74aa84b0ee7"
     ],
     "tutorial": ""
 }
