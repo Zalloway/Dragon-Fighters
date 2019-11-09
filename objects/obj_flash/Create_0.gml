@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 25A8777F
-/// @DnDArgument : "code" "walkSpeed = 30;$(13_10)jumpSpeed = 60;$(13_10)hsp = 0;$(13_10)vsp = 0;$(13_10)grav = 1.4;$(13_10)MAX_FALL_SPEED = 15;$(13_10)speedMultiplier = 1;$(13_10)spawnAlarm = 0;$(13_10)animation_string ="000111222333";$(13_10)animation_len = string_length(animation_string -1);$(13_10)animation_index = 1;$(13_10)flash_hp_max=80;$(13_10)flash_hp = 80;"
+/// @DnDArgument : "code" "walkSpeed = 30;$(13_10)jumpSpeed = 60;$(13_10)hsp = 0;$(13_10)vsp = 0;$(13_10)grav = 1.4;$(13_10)MAX_FALL_SPEED = 15;$(13_10)speedMultiplier = 1;$(13_10)spawnAlarm = 0;$(13_10)animation_string ="000111222333";$(13_10)animation_len = string_length(animation_string -1);$(13_10)animation_index = 1;$(13_10)flash_hp_max = 80;$(13_10)flash_hp = 80;$(13_10)"
 walkSpeed = 30;
 jumpSpeed = 60;
 hsp = 0;
@@ -13,7 +13,7 @@ spawnAlarm = 0;
 animation_string ="000111222333";
 animation_len = string_length(animation_string -1);
 animation_index = 1;
-flash_hp_max=80;
+flash_hp_max = 80;
 flash_hp = 80;
 
 /// @DnDAction : YoYo Games.Particles.Part_Syst_Create
