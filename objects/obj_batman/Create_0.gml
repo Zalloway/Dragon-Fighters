@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 2D87ECB4
-/// @DnDArgument : "code" "walkSpeed = 24;$(13_10)jumpSpeed = 60;$(13_10)hsp = 0;$(13_10)vsp = 0;$(13_10)grav = 1.4;$(13_10)MAX_FALL_SPEED = 15;$(13_10)speedMultiplier = 1;$(13_10)spawnAlarm = 0;$(13_10)animation_string ="000111222333";$(13_10)animation_len = string_length(animation_string -1);$(13_10)animation_index = 1;$(13_10)batman_hp = 100;"
+/// @DnDArgument : "code" "walkSpeed = 24;$(13_10)jumpSpeed = 60;$(13_10)hsp = 0;$(13_10)vsp = 0;$(13_10)grav = 1.4;$(13_10)MAX_FALL_SPEED = 15;$(13_10)speedMultiplier = 1;$(13_10)spawnAlarm = 0;$(13_10)animation_string ="000111222333";$(13_10)animation_len = string_length(animation_string -1);$(13_10)animation_index = 1;$(13_10)batman_hp = 99;$(13_10)batman_max_hp = 99;"
 walkSpeed = 24;
 jumpSpeed = 60;
 hsp = 0;
@@ -13,7 +13,8 @@ spawnAlarm = 0;
 animation_string ="000111222333";
 animation_len = string_length(animation_string -1);
 animation_index = 1;
-batman_hp = 100;
+batman_hp = 99;
+batman_max_hp = 99;
 
 /// @DnDAction : YoYo Games.Particles.Part_Syst_Create
 /// @DnDVersion : 1.1

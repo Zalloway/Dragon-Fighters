@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "940e7e55-8011-46c9-b657-e9cb89e9cf53",
+            "Value": {
+                "id": "29b3a58d-b267-4f4b-9ba2-e9ffea13e4a1",
+                "resourcePath": "objects\\obj_player_1\\obj_player_1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9a67ea38-e808-45e3-bc0b-2ac389af68a2",
             "Value": {
                 "id": "21ebc39b-e18d-459b-a6e3-a0fed52f3d83",
@@ -284,6 +292,14 @@
                 "id": "2713ee30-3dee-4b97-ab55-1efab98e3fcf",
                 "resourcePath": "objects\\obj_gravity_Controller\\obj_gravity_Controller.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bc757d51-ae83-470c-ad5b-6b5bf0c7840a",
+            "Value": {
+                "id": "ef6dd7e0-1c75-451b-8141-d142636c94db",
+                "resourcePath": "sprites\\sprite12\\sprite12.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
