@@ -18,8 +18,9 @@ animation_index = 1;
 /// @DnDVersion : 1.1
 /// @DnDHash : 42E742C6
 /// @DnDArgument : "var" "global.P_System"
+/// @DnDArgument : "layer" ""particles""
 /// @DnDArgument : "persist" "1"
-global.P_System = part_system_create_layer("Instances", 1);
+global.P_System = part_system_create_layer("particles", 1);
 
 /// @DnDAction : YoYo Games.Particles.Part_Type_Create
 /// @DnDVersion : 1.1
@@ -102,11 +103,13 @@ part_type_life(global.Particle2, 0, 6);
 /// @DnDHash : 02B22596
 /// @DnDArgument : "type" "global.Particle2"
 /// @DnDArgument : "maxdir" "100"
-/// @DnDArgument : "incr" "10"
-part_type_direction(global.Particle2, 0, 100, 10, 0);
+/// @DnDArgument : "incr" "100"
+part_type_direction(global.Particle2, 0, 100, 100, 0);
 
 /// @DnDAction : YoYo Games.Particles.Part_Type_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 48136DF0
 /// @DnDArgument : "type" "global.Particle2"
-part_type_speed(global.Particle2, 1, 2, 0, 0);
+/// @DnDArgument : "minspeed" "20"
+/// @DnDArgument : "maxspeed" "20"
+part_type_speed(global.Particle2, 20, 20, 0, 0);
