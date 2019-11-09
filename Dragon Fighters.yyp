@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "b5e7faef-e4a2-4c54-b929-73dac5134e59",
+            "Value": {
+                "id": "72e5e8a8-8535-494c-86ad-e2b98b2be712",
+                "resourcePath": "objects\\obj_atttackUp\\obj_atttackUp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bad28cd5-99e0-4ed8-8691-b71a062e8c59",
             "Value": {
                 "id": "2713ee30-3dee-4b97-ab55-1efab98e3fcf",
