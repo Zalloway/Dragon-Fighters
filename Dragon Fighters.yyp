@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "be620c95-5404-4e13-9505-07b798bab7e0",
+            "Value": {
+                "id": "10ef2f9b-5471-453a-afa4-4725f73c9ad8",
+                "resourcePath": "sprites\\spr_attackUp\\spr_attackUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c1d43514-5539-4139-be6c-bbd1f5e1b6c9",
             "Value": {
                 "id": "312b67de-3436-4b14-805c-b7bab97d8658",
