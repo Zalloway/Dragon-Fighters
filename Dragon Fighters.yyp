@@ -103,14 +103,6 @@
             }
         },
         {
-            "Key": "53dfabbc-2545-4e50-bc44-25f14335f672",
-            "Value": {
-                "id": "9bd5538c-0d63-4f99-a322-2f3f4a67a460",
-                "resourcePath": "objects\\obj_batman_AI\\obj_batman_AI.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "5844f546-526e-4362-85e5-648fc14687cb",
             "Value": {
                 "id": "38e58a3b-4536-4e8d-9eae-d88a1a9c4f0f",
